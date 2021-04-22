@@ -1,4 +1,4 @@
-# Cisco Container Platform Provider Plugin for Terraform
+# Entente Plugin for Terraform
 
 This is a provider plugin for Terraform which allows Terraform to interact with various Cisco Container Platform (CCP) resources. 
 
